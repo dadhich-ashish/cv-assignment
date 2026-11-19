@@ -6,6 +6,6 @@ A collection of hands-on computer vision assignments for engineers. Each assignm
 
 | # | Assignment | Level | Duration | Topics |
 | --- | --- | --- | --- | --- |
-| 1 | [Multi-Camera Person Re-ID and Crowd Analysis](#assignment-1-multi-camera-person-re-id-and-crowd-analysis) | Beginner to Advanced | 3 weeks | Detection, tracking, Re-ID, homography, counting, crowd density, VLM, VLA |
+| 1 | [Multi-Camera Person Re-ID and Crowd Analysis](https://github.com/dadhich-ashish/cv-assignment/blob/main/multi-camera-reid-crowd-analysis/ASSIGNMENT.md) | Beginner to Advanced | 3 weeks | Detection, tracking, Re-ID, homography, counting, crowd density, VLM, VLA |
 
 More assignments will be added to this table as they are created.
